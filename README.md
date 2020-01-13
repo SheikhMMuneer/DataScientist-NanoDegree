@@ -1,1 +1,1 @@
-# DataScientist-NanoDegree
+# Data Scientist-NanoDegree
